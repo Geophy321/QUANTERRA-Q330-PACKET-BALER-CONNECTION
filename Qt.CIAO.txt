@@ -1,0 +1,8 @@
+[0m[01;32mDT0001__.HHE[0m*
+[01;32mDT0001__.HHN[0m*
+[01;32mDT0001__.HHZ[0m*
+[01;32mDT0001__.HLE[0m*
+[01;32mDT0001__.HLN[0m*
+[01;32mDT0001__.HLZ[0m*
+[01;32mNon confermato 443208.crdownload[0m*
+[01;32mQt.CIAO.txt[0m*
